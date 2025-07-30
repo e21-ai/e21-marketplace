@@ -9,5 +9,5 @@
 
 ## e/21 marketplace
 
-This repository contains the **binaries* for the e/21 marketplace, 
+This repository contains the **binaries** for the e/21 marketplace, 
 a platform designed to facilitate downloading MCP Servers and Agents for the e21 AI ecosystem.
